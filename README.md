@@ -19,4 +19,4 @@ rather than looking up liquid volumes and programming pipetters at the
 bench.
 
 
-![Cura simulation](https://raw.github.com/ryneches/YamSuph/master/docs/shell_plate_700.jpg)
+![Cura simulation](https://raw.github.com/ryneches/YamSuph/master/docs/shell_plate_print_700.jpg)
